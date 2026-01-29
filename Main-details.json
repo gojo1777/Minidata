@@ -1,0 +1,20 @@
+{
+  "MONGO_URI": "mongodb+srv://botmini:botmini@minibot.upglk0f.mongodb.net/?retryWrites=true&w=majority",
+  "MONGO_DB": "ShalaDB1",
+  "PREFIX": ".",
+  "MAX_RETRIES": "3",
+  "ADMIN_LIST_PATH": "94704227534",
+  "AUTO_AI": "false",
+  "AUTO_VIEW_STATUS": "true",
+  "AUTO_LIKE_STATUS" : "true",
+  "AUTO_RECORDING" : "false",
+  "AUTO_LIKE_EMOJI" : "true",
+  "WORK_TYPE" : "private",
+  "CHANNEL_LINK" : "https://whatsapp.com/channel/0029VagCogPGufJ3kZWjsW3A",
+  "GROUP_INVITE_LINK" : "https://chat.whatsapp.com/EJ9My5GluKhHeB55m6yVZZ",
+  "NEWSLETTER_JID" : "120363322195409882@newsletter",
+  "NEWSLETTER_MESSAGE_ID" : "428",
+  "OTP_EXPIRY": "300000"
+  "OWNER_REACT": "✒️",
+  "BOT_NAME_FANCY": "S𝚑𝚊𝚕𝚊 Ｍᴅ Ｍɪɴɪ Ｂᴏᴛ"
+}
